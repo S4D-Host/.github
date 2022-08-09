@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+Its S4D Host, a non-profit host maintained for s4d by AlexCdDg and others. Started to host S4D bots.
+
+## Important
+This is a private organisation and thus the code is privated, any contribution can only be held by the members of this organisation.
+https://www.s4dhost.cf/
 
 <!--
 
